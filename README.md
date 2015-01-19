@@ -4,7 +4,13 @@ Angular multi-app allows you to use attributes to automatically bootstrap multip
 
 ## How Does It Work?
 
-First you add the file at the bottom of your page **after Angular**
+Install the bower package
+
+```console
+bower install angular-multi-app
+```
+
+Then add the file at the bottom of your page **after Angular**
 
 ```html
 <script src="angular.js"></script>
